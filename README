@@ -85,6 +85,8 @@ Here is how to display archive pages for your `BlogPost` content items.
           page_title: 'Blog Archive'
           # meta title for archive pages
           page_meta_title: 'Blog archive %month% %year%'
+          # hide/show number of items counters
+          show_counters: true
 
 ### Creating archive route
 
